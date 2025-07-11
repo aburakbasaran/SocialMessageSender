@@ -1,0 +1,12 @@
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using System.ComponentModel.DataAnnotations;
+global using SocialMediaMessaging.Core.Interfaces;
+global using SocialMediaMessaging.Core.Models;
+global using SocialMediaMessaging.Core.Enums;
+global using SocialMediaMessaging.Infrastructure.Configuration;
+global using System.Text.Json;
+global using Microsoft.AspNetCore.RateLimiting;
+global using System.Threading.RateLimiting; 

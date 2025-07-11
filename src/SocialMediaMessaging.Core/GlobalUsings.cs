@@ -1,0 +1,9 @@
+global using System.Text.Json.Serialization;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using System.ComponentModel.DataAnnotations;
+global using FluentValidation;
+global using System.Diagnostics.CodeAnalysis;
+global using SocialMediaMessaging.Core.Models;
+global using SocialMediaMessaging.Core.Enums; 
